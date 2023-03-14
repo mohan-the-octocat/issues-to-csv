@@ -1,4 +1,5 @@
 on: [push]
+name: A workflow for my Hello World file
 
 jobs:
   hello_world_job:
